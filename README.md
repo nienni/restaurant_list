@@ -8,5 +8,5 @@ A simple web application for restaurant list.
 ### How to use Searching
 type the title of the restaurant’s keyword in search bar
 
-###data source: alpha_camp(AC)
+### data source: alpha_camp(AC)
 
