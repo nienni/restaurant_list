@@ -8,5 +8,10 @@ A simple web application for restaurant list.
 ### How to use Searching
 type the title of the restaurant’s keyword in search bar
 
-### data source: alpha_camp(AC)
+### Data source: alpha_camp(AC)
 
+### Installation
+- clone this URL: https://github.com/nienni/restaurant_list  
+- cd to the file
+- instal npm 
+- you can visit this web on: http://localhost:3000
